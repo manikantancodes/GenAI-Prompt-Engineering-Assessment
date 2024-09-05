@@ -1,0 +1,7 @@
+spacy
+transformers
+pandas
+matplotlib
+seaborn
+requests
+pytest
